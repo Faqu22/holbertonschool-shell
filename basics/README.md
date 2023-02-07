@@ -1,0 +1,1 @@
+Basics projects of shell
