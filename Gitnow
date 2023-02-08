@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m rem
+git commit -m ㅤ
 git push
