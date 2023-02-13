@@ -1,2 +1,2 @@
 #!/bin/bash
-rm -r *.js | ind -type f - name .j
+rm -R *.js | ind -type f - name .js
