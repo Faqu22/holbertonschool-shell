@@ -1,2 +1,2 @@
 #!/bin/bash
-cat sample_data_1.txt | head -25 | tail -1
+cat iacta | head -25 | tail -1
