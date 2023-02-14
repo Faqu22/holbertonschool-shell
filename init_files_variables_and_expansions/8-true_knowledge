@@ -1,2 +1,2 @@
 #!/bin/bash
-let c=$TRUEKNOWLEDGE+120 |echo $c
+echo "$($TRUEKNOWLEDGE+120)"
