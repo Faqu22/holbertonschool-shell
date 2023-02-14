@@ -1,0 +1,2 @@
+#!/bin/bash
+let c=$TRUEKNOWLEDGE+120 |echo $c
